@@ -1,4 +1,4 @@
-## Oii!! Eu sou a Vitória Vicente
+## Oii eu sou a Vitória Vicente!
 
 <div align="center">
   <a href="https://github.com/vihvicente">
@@ -14,9 +14,6 @@
   <img align="center" alt="Vih-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Vih-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Vih-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
-  
-  <img align="right" alt="Vih-pic" height="15" style="border-radius:50px;" src="file:///home/aluno/Downloads/github.jpg">
-</div>
   
   ##
   
