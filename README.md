@@ -1,4 +1,5 @@
-## Oii eu sou a Vitória Vicente!
+## Hi there ✨ I'm Vitória Vicente ✨     
+
 
 <div align="center">
   <a href="https://github.com/vihvicente">
@@ -7,7 +8,8 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vihvicente&layout=compact&langs_count=7&theme=github_dark_dimmed"/>
   
 </div>
-  
+ 🌱 I'm learning
+
   <div style="display: inline_block"><br>
     
   <img align="center" alt="Vih-GitHub" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
